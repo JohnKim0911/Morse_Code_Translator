@@ -4,7 +4,7 @@ A text-based Python program to convert Strings into Morse Code.
 ## Start: Introduction message.
 <img src="https://github.com/JohnKim0911/081_Morse_Code_Translator/blob/master/output_pic/1_Start.png?raw=true">
 
-## Ending
+## Encoding
 <img src="https://github.com/JohnKim0911/081_Morse_Code_Translator/blob/master/output_pic/2_Encoding.png?raw=true">
 
 ## Decoding
